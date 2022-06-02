@@ -1,2 +1,2 @@
 # potato
-I'm a potato
+I'm a pretty potato
